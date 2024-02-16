@@ -1,0 +1,18 @@
+img{
+    height:300px;
+    width:300px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+h2{
+    color:beige;
+}
+.carts{
+    display: flex;
+    justify-content: center;
+}
